@@ -1,0 +1,8 @@
+{
+  "name": "cenkor",
+  "version": "1.0.0",
+  "description": "손쉬운 비속어 검열",
+  "main": "src/index.js",
+  "author": "sh9351",
+  "license": "Apache License Version 2.0"
+}
